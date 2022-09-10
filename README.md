@@ -1,5 +1,5 @@
 # E-Commerce
-Simple E Commerce(ASP.NET Core Mvc + Angular)
+Simple E Commerce(ASP.NET Core Mvc + Angular + MsSql + Redis + Stripe)
 
 Click expand here.
 
