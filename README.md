@@ -1,5 +1,5 @@
 # E-Commerce
-Simple E Commerce
+Simple E Commerce(ASP.NET Core Mvc + Angular)
 
 Click expand here.
 
