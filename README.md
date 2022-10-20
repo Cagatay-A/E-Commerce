@@ -7,7 +7,7 @@ install chocolatey: https://chocolatey.org/install
 
 Enter the code to power Shell: Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-Version checked ; https://community.chocolatey.org/packages/redis-64#versionhistory
+For version checking ; https://community.chocolatey.org/packages/redis-64#versionhistory
 
 install redis: example: "choco install redis-64 --version=3.0.503"
 
